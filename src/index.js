@@ -3,8 +3,6 @@ import reactDOM from "react-dom";
 
 import Header from "./Header";
 
-// need state? use class
-// need to handle global event listeners (key presses / setInterval)
 class App extends Component {
   constructor(props) {
     super(props);
@@ -39,17 +37,6 @@ class App extends Component {
   }
 
   render() {
-    /*
-      div: {
-        class: ["container"]
-      }
-
-      Header: {
-        props: {
-          greeting: 'Hello, '
-        }
-      }
-    */
     return (
       <div className='container'>
         <Header
@@ -59,7 +46,6 @@ class App extends Component {
           greeting='Hello, '
           user={this.state.user}
         />
-        <Header greeting='Howdy, ' user={this.state.user} />
       </div>
     );
   }
