@@ -11,6 +11,7 @@ https://jsonplaceholder.typicode.com/
 - What is the event object?
 - How do I capture values in react?
 - What is Ajax?
+- How does Dom manipulation work in react?
 
 ### Code to discuss
 
