@@ -15,44 +15,18 @@ https://jsonplaceholder.typicode.com/
 
 ### Code to discuss
 
-- [ ] Updating State Within Component
+- [x] Updating State Within Component
 
-```js
+- [x] Binding Functions (+ Error Messages)
 
-```
+- [x] Collect Data from Inputs
 
-- [ ] Binding Functions (+ Error Messages)
+- [x] Form Submission
 
-```js
+- [x] Axios (Why github and youtube?)
 
-```
-
-- [ ] Collect Data from Inputs
-
-```js
-
-```
-
-- [ ] Form Submission
-
-```js
-
-```
-
-- [ ] Axios (Why github and youtube?)
-
-```js
-
-```
-
-- [ ] Exporting difference between Components and Regular JS + File notation
-
-```js
-
-```
+- [x] Exporting difference between Components and Regular JS + File notation
 
 - [ ] Hooks. What are they?
-
-```js
-
-```
+      Check out the docs on hooks!
+      https://reactjs.org/docs/hooks-overview.html

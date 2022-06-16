@@ -3,7 +3,7 @@ import React from "react";
 // no state? use functional
 function Header(props) {
   return (
-    <header onClick={props.onClick}>
+    <header onClick={event => props.onClick(event, props)}>
       <p>
         {props.greeting} {props.user}
       </p>
